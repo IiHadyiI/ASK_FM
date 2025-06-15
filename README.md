@@ -1,4 +1,4 @@
-d📌 Ask.fm-Style Q&A Console System (C++)
+📌 Ask.fm-Style Q&A Console System (C++)
 
 A console-based social Q&A platform inspired by Ask.fm, built using C++. This system allows users to create accounts, ask and answer questions (both public and anonymous), manage threaded question chains, and delete questions. All data is persisted via text files to simulate lightweight backend storage without a database.
 📖 Features
@@ -30,23 +30,6 @@ A console-based social Q&A platform inspired by Ask.fm, built using C++. This sy
     Console-based UI
 
     Basic Software Architecture & Separation of Concerns
-
-📦 Project Structure
-
-project/
-├── projectFiles/
-│   ├── Questions/
-│   │   ├── questions/
-│   │   │   ├── questions.txt
-│   │   │   └── deleted.txt
-│   │   └── answers/
-│       └── answers.txt
-├── Ask_sys.cpp
-├── Create_User.h
-├── System_reload.cpp
-├── User.cpp
-├── Question.h
-└── main.cpp
 
 
 📈 Future Improvements
