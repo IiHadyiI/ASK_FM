@@ -57,6 +57,4 @@ project/
 
     Improve input validation and error handling.
 
-    Add a GUI or web-based frontend using a modern framework.
-
     Enhance data encryption for sensitive user data.
